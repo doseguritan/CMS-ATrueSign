@@ -50,3 +50,10 @@ group :development, :test do
 end
 
 gem 'stringio', '~> 3.1.7'
+gem "devise-api", "~> 0.2.0"
+
+gem "devise", "~> 4.9"
+
+gem "shrine", "~> 3.6"
+
+gem "marcel", "~> 1.1"
